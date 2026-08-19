@@ -1,0 +1,25 @@
+{
+    "250100323": {
+        "name": "Reem Tamer",
+        "points": 30,
+        "streak": 1,
+        "last_active": "2026-08-19"
+    },
+    "1002": {
+        "name": "Ahmed Mohamed",
+        "points": 15
+    },
+    "250100016": {
+        "name": "Seifeldin Hazem",
+        "points": 0,
+        "streak": 1,
+        "last_active": "2026-08-19",
+        "history": [
+            {
+                "action": "Account Created",
+                "points": "+0",
+                "time": "2026-08-19 16:28"
+            }
+        ]
+    }
+}
